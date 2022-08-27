@@ -147,7 +147,7 @@ nav{
   background: var(--second-color);
 }
 
-#projects-section-head {
+#project-section-head {
   max-width: 640px;
   margin: 0 auto 10rem auto;
   border-bottom: 0.2rem solid var(--white);
