@@ -148,9 +148,11 @@ nav{
 }
 
 #project-section-head {
+  font-size: 6rem;
   max-width: 640px;
-  margin: 0 auto 10rem auto;
+  margin: 0 auto 6rem auto;
   border-bottom: 0.2rem solid var(--white);
+  border-top: 0.2rem solid var(--white);
 }
 
 @media (max-width: 28.75em) {
